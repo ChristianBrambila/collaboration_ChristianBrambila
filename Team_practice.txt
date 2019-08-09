@@ -1,2 +1,3 @@
 Práctica en equipoTest line
 forzando comflicto
+Práctica en equipo|segundo cambioTest line
